@@ -14,6 +14,8 @@
 
     `git clone https://github.com/max32323/simple_player_music.git`
 
+   `cd simple_player_music`
+
     `python -m venv venv`
 
     `venv\Scripts\activate`
